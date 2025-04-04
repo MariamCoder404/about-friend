@@ -1,4 +1,5 @@
 Tribute to My Close Friend from the Maldives 🌊 🇲🇻
+
 About the Website
 This is a tribute website dedicated to my close friend from the Maldives.The website is designed to be simple yet meaningful, showcasing the story through text, images, and a gallery.
 
